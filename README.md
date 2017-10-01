@@ -1,6 +1,6 @@
-# memoryGame
 ### A java based game to check your memory
 ---  
+Run the java file located in /dist/memoryGame.jar
 To play the game, run `java -jar "memoryGame.jar"` from the dist directory.  
 
 ## How to play:  
